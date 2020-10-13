@@ -1,3 +1,524 @@
 {
-  "glyphs": []
+  "glyphs": [
+    {
+      "file": "Abandon.svg",
+      "name": "Abandon"
+    },
+    {
+      "file": "Adapt.svg",
+      "name": "Adapt"
+    },
+    {
+      "file": "Advance.svg",
+      "name": "Advance"
+    },
+    {
+      "file": "After.svg",
+      "name": "After"
+    },
+    {
+      "file": "Again-Repeat.svg",
+      "name": "Again/Repeat"
+    },
+    {
+      "file": "All.svg",
+      "name": "All"
+    },
+    {
+      "file": "Answer.svg",
+      "name": "Answer"
+    },
+    {
+      "file": "Attack-War.svg",
+      "name": "Attack/War"
+    },
+    {
+      "file": "Avoid-Struggle.svg",
+      "name": "Avoid/Struggle"
+    },
+    {
+      "file": "Barrier-Obstacle.svg",
+      "name": "Barrier/Obstacle"
+    },
+    {
+      "file": "Before.svg",
+      "name": "Before"
+    },
+    {
+      "file": "Begin.svg",
+      "name": "Begin"
+    },
+    {
+      "file": "Being-Human.svg",
+      "name": "Being/Human"
+    },
+    {
+      "file": "Body-Shell.svg",
+      "name": "Body/Shell"
+    },
+    {
+      "file": "Breathe.svg",
+      "name": "Breathe"
+    },
+    {
+      "file": "Calibrationgrid.svg",
+      "name": "Calibration Grid"
+    },
+    {
+      "file": "Call.svg",
+      "name": "Call"
+    },
+    {
+      "file": "Capture.svg",
+      "name": "Capture"
+    },
+    {
+      "file": "Change-Modify.svg",
+      "name": "Change/Modify"
+    },
+    {
+      "file": "Chaos-Disorder.svg",
+      "name": "Chaos/Disorder"
+    },
+    {
+      "file": "Chase.svg",
+      "name": "Chase"
+    },
+    {
+      "file": "Clear.svg",
+      "name": "Clear"
+    },
+    {
+      "file": "ClearAll.svg",
+      "name": "Clear All"
+    },
+    {
+      "file": "Complex.svg",
+      "name": "Complex"
+    },
+    {
+      "file": "Conflict.svg",
+      "name": "Conflict"
+    },
+    {
+      "file": "Consequence.svg",
+      "name": "Consequence"
+    },
+    {
+      "file": "Contemplate.svg",
+      "name": "Contemplate"
+    },
+    {
+      "file": "Contract-Reduce.svg",
+      "name": "Contract/Reduce"
+    },
+    {
+      "file": "Courage.svg",
+      "name": "Courage"
+    },
+    {
+      "file": "Create-Creation.svg",
+      "name": "Create/Creation"
+    },
+    {
+      "file": "Creativity-Mind-Thought-Idea.svg",
+      "name": "Creativity/Idea"
+    },
+    {
+      "file": "Creativity.svg",
+      "name": "Creativity"
+    },
+    {
+      "file": "Danger.svg",
+      "name": "Danger"
+    },
+    {
+      "file": "Data-Signal-Message.svg",
+      "name": "Data/Signal"
+    },
+    {
+      "file": "Defend.svg",
+      "name": "Defend"
+    },
+    {
+      "file": "Destination.svg",
+      "name": "Destination"
+    },
+    {
+      "file": "Destiny.svg",
+      "name": "Destiny"
+    },
+    {
+      "file": "Destroy-Destruction.svg",
+      "name": "Destroy"
+    },
+    {
+      "file": "Deteriorate-Erode.svg",
+      "name": "Deteriorate/Erode"
+    },
+    {
+      "file": "Die-Death.svg",
+      "name": "Die/Death"
+    },
+    {
+      "file": "Difficult.svg",
+      "name": "Difficult"
+    },
+    {
+      "file": "Discover.svg",
+      "name": "Discover"
+    },
+    {
+      "file": "Distance-Outside.svg",
+      "name": "Distance/Outside"
+    },
+    {
+      "file": "Easy.svg",
+      "name": "Easy"
+    },
+    {
+      "file": "End-Close-Finality.svg",
+      "name": "End/Close"
+    },
+    {
+      "file": "Enlightened-Enlightenment.svg",
+      "name": "Enlightened"
+    },
+    {
+      "file": "Enlightened-Enlightenment-TypeB.svg",
+      "name": "Enlightened B"
+    },
+    {
+      "file": "Equal.svg",
+      "name": "Equal"
+    },
+    {
+      "file": "Escape.svg",
+      "name": "Escape"
+    },
+    {
+      "file": "Evolution-Progress-Success.svg",
+      "name": "Evolution/Progress"
+    },
+    {
+      "file": "Failure.svg",
+      "name": "Failure"
+    },
+    {
+      "file": "Fear.svg",
+      "name": "Fear"
+    },
+    {
+      "file": "Field.svg",
+      "name": "Field"
+    },
+    {
+      "file": "Follow.svg",
+      "name": "Follow"
+    },
+    {
+      "file": "Forget.svg",
+      "name": "Forget"
+    },
+    {
+      "file": "Future.svg",
+      "name": "Future"
+    },
+    {
+      "file": "Gain.svg",
+      "name": "Gain"
+    },
+    {
+      "file": "Government-City-Civilization-Structure.svg",
+      "name": "Government/City"
+    },
+    {
+      "file": "Grow.svg",
+      "name": "Grow"
+    },
+    {
+      "file": "Harm.svg",
+      "name": "Harm"
+    },
+    {
+      "file": "Harmony-Peace.svg",
+      "name": "Harmony/Peace"
+    },
+    {
+      "file": "Have.svg",
+      "name": "Have"
+    },
+    {
+      "file": "Help.svg",
+      "name": "Help"
+    },
+    {
+      "file": "Hide.svg",
+      "name": "Hide"
+    },
+    {
+      "file": "I-Me-Self.svg",
+      "name": "I/Me/Self"
+    },
+    {
+      "file": "Ignore.svg",
+      "name": "Ignore"
+    },
+    {
+      "file": "Imperfect.svg",
+      "name": "Imperfect"
+    },
+    {
+      "file": "Impure.svg",
+      "name": "Impure"
+    },
+    {
+      "file": "Intelligence.svg",
+      "name": "Intelligence"
+    },
+    {
+      "file": "Interrupt.svg",
+      "name": "Interrupt"
+    },
+    {
+      "file": "Journey.svg",
+      "name": "Journey"
+    },
+    {
+      "file": "Key.svg",
+      "name": "Key"
+    },
+    {
+      "file": "Knowledge.svg",
+      "name": "Knowledge"
+    },
+    {
+      "file": "Lead.svg",
+      "name": "Lead"
+    },
+    {
+      "file": "Legacy.svg",
+      "name": "Legacy"
+    },
+    {
+      "file": "Less.svg",
+      "name": "Less"
+    },
+    {
+      "file": "Liberate.svg",
+      "name": "Liberate"
+    },
+    {
+      "file": "Lie.svg",
+      "name": "Lie"
+    },
+    {
+      "file": "Link.svg",
+      "name": "Link"
+    },
+    {
+      "file": "LiveAgain.svg",
+      "name": "Live Again"
+    },
+    {
+      "file": "Lose-Loss.svg",
+      "name": "Lose/Loss"
+    },
+    {
+      "file": "Message.svg",
+      "name": "Message"
+    },
+    {
+      "file": "Mind.svg",
+      "name": "Mind"
+    },
+    {
+      "file": "More.svg",
+      "name": "More"
+    },
+    {
+      "file": "Mystery.svg",
+      "name": "Mystery"
+    },
+    {
+      "file": "Nature.svg",
+      "name": "Nature"
+    },
+    {
+      "file": "Nemesis.svg",
+      "name": "Nemesis"
+    },
+    {
+      "file": "New.svg",
+      "name": "New"
+    },
+    {
+      "file": "Not-Inside.svg",
+      "name": "Not/Inside"
+    },
+    {
+      "file": "Nourish.svg",
+      "name": "Nourish"
+    },
+    {
+      "file": "Nzeer.svg",
+      "name": "N'zeer"
+    },
+    {
+      "file": "Old.svg",
+      "name": "Old"
+    },
+    {
+      "file": "Open-Accept.svg",
+      "name": "Open/Accept"
+    },
+    {
+      "file": "OpenAll.svg",
+      "name": "Open All"
+    },
+    {
+      "file": "Opening-Portal.svg",
+      "name": "Opening/Portal"
+    },
+    {
+      "file": "Past.svg",
+      "name": "Past"
+    },
+    {
+      "file": "Path.svg",
+      "name": "Path"
+    },
+    {
+      "file": "Perfection-Balance.svg",
+      "name": "Perfection/Balance"
+    },
+    {
+      "file": "Perspective.svg",
+      "name": "Perspective"
+    },
+    {
+      "file": "Potential.svg",
+      "name": "Potential"
+    },
+    {
+      "file": "Presence.svg",
+      "name": "Presence"
+    },
+    {
+      "file": "Present-Now.svg",
+      "name": "Present/Now"
+    },
+    {
+      "file": "Pure.svg",
+      "name": "Pure"
+    },
+    {
+      "file": "Pursue.svg",
+      "name": "Pursue"
+    },
+    {
+      "file": "Question.svg",
+      "name": "Question"
+    },
+    {
+      "file": "React.svg",
+      "name": "React"
+    },
+    {
+      "file": "Rebel.svg",
+      "name": "Rebel"
+    },
+    {
+      "file": "Recharge.svg",
+      "name": "Recharge"
+    },
+    {
+      "file": "Resist-Resistance.svg",
+      "name": "Resistance"
+    },
+    {
+      "file": "Resist-Resistance-TypeB.svg",
+      "name": "Resistance B"
+    },
+    {
+      "file": "Response.svg",
+      "name": "Response"
+    },
+    {
+      "file": "Restraint.svg",
+      "name": "Restraint"
+    },
+    {
+      "file": "Retreat.svg",
+      "name": "Retreat"
+    },
+    {
+      "file": "Stability-Stay.svg",
+      "name": "Stability/Stay"
+    },
+    {
+      "file": "Star.svg",
+      "name": "Star"
+    },
+    {
+      "file": "Strong.svg",
+      "name": "Strong"
+    },
+    {
+      "file": "Sustain.svg",
+      "name": "Sustain"
+    },
+    {
+      "file": "SustainAll.svg",
+      "name": "Sustain All"
+    },
+    {
+      "file": "Technology.svg",
+      "name": "Technology"
+    },
+    {
+      "file": "Them.svg",
+      "name": "Them"
+    },
+    {
+      "file": "Together.svg",
+      "name": "Together"
+    },
+    {
+      "file": "Truth.svg",
+      "name": "Truth"
+    },
+    {
+      "file": "Unbounded.svg",
+      "name": "Unbounded"
+    },
+    {
+      "file": "Victory.svg",
+      "name": "Victory"
+    },
+    {
+      "file": "Want.svg",
+      "name": "Want"
+    },
+    {
+      "file": "We-Us.svg",
+      "name": "We/Us"
+    },
+    {
+      "file": "Weak.svg",
+      "name": "Weak"
+    },
+    {
+      "file": "Worth.svg",
+      "name": "Worth"
+    },
+    {
+      "file": "XM.svg",
+      "name": "XM"
+    },
+    {
+      "file": "You-Your-Other.svg",
+      "name": "You/Your/Other"
+    }
+  ]
 }
