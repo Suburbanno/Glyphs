@@ -15,8 +15,8 @@ function renderGlyph(glyphs) {
   const htmlContent = glyphs
     .map((g) => {
       return `<div class="grid-item">
-        <img src="./images/glyphs/${g.file}"></img>
-        ${g.name}
+        <img src="./images/glyphs/${g.file}" class="glyph-image"></img>
+        <div class="glyph-name">${g.name}</div>
       </div>`
     })
     .join('')
