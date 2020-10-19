@@ -1,6 +1,7 @@
 :root {
   --font-color: #ffffff;
   --bg-color: #363434;
+  --input-bg-color: #4D4D4D
 }
 
 
@@ -53,6 +54,34 @@ a {
   padding: 10px;
 }
 
+.search {
+  margin: 0 auto;
+  padding: 50px 0;
+  width: 500px;
+}
+
+.search-box {
+  padding: 0 17px;
+  height: 34px;
+  width: 100%;
+
+  color: var(--font-color);
+  background-color: var(--input-bg-color);
+  font-size: 18px;
+  font-weight: 300;
+  border: none;
+  border-radius: 17px;
+}
+
+.search-box::placeholder {
+  color: var(--font-color);
+  opacity: 0.8;
+}
+
+.search-box:focus {
+  outline: none;
+}
+
 main {
   display: flex;
   justify-content: center;
@@ -96,6 +125,10 @@ footer a {
 @media screen and (max-width: 768px) {
   .grid-container {
     grid-template-columns: repeat(2, 170px);
+  }
+
+  .search {
+    width: 80%;
   }
 }
 
