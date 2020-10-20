@@ -1,7 +1,8 @@
 :root {
   --font-color: #ffffff;
   --bg-color: #363434;
-  --input-bg-color: #4D4D4D
+  --input-bg-color: #4D4D4D;
+  --green: #3EB15B;
 }
 
 
@@ -16,11 +17,17 @@ html, body {
   height: 100%;
 }
 
+html {
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
 body {
   color: var(--font-color);
   background-color: var(--bg-color);
   font-family: 'Exo 2', sans-serif;
   font-weight: 400;
+  line-height: 1.5;
 }
 
 a {
@@ -89,6 +96,13 @@ main {
   min-height: calc(100vh - 90px - 134px);
 }
 
+.container {
+  width: 80%;
+  max-width: 800px;
+
+  padding-bottom: 100px;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: repeat(8, 170px);
@@ -111,6 +125,14 @@ main {
   font-size: 1rem;
 }
 
+section {
+  text-align: justify;
+}
+
+section h1 {
+  color: var(--green);
+}
+
 footer {
   position: absolute;
   bottom: 0;
@@ -126,6 +148,10 @@ footer a {
 
 /* Phone */
 @media screen and (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
+
   .grid-container {
     grid-template-columns: repeat(2, 170px);
   }
