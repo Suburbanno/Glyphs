@@ -67,15 +67,15 @@ a {
 
 .search-box {
   padding: 0 17px;
-  height: 34px;
+  height: 40px;
   width: 100%;
 
   color: var(--font-color);
   background-color: var(--input-bg-color);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   border: none;
-  border-radius: 17px;
+  border-radius: 10px;
 }
 
 .search-box::placeholder {
