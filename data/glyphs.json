@@ -349,6 +349,10 @@
       "name": "More"
     },
     {
+      "file": "Mystery.svg",
+      "name": "Mystery"
+    },
+    {
       "file": "N.svg",
       "name": "N"
     },
@@ -469,6 +473,50 @@
       "name": "Retreat"
     },
     {
+      "file": "Safety.svg",
+      "name": "Safety"
+    },
+    {
+      "file": "Save.svg",
+      "name": "Save"
+    },
+    {
+      "file": "See.svg",
+      "name": "See"
+    },
+    {
+      "file": "Seek-Search.svg",
+      "name": "Seek/Search"
+    },
+    {
+      "file": "Self-Individual.svg",
+      "name": "Self/Individual"
+    },
+    {
+      "file": "Separate.svg",
+      "name": "Separate"
+    },
+    {
+      "file": "Shapers-Collective.svg",
+      "name": "Shapers/Collective"
+    },
+    {
+      "file": "Share.svg",
+      "name": "Share"
+    },
+    {
+      "file": "Shield.svg",
+      "name": "Shield"
+    },
+    {
+      "file": "Simple.svg",
+      "name": "Simple"
+    },
+    {
+      "file": "Soul.svg",
+      "name": "Soul"
+    },
+    {
       "file": "Stability-Stay.svg",
       "name": "Stability/Stay"
     },
@@ -507,6 +555,10 @@
     {
       "file": "Unbounded.svg",
       "name": "Unbounded"
+    },
+    {
+      "file": "Use.svg",
+      "name": "Use"
     },
     {
       "file": "Victory.svg",
