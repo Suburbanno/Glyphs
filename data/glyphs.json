@@ -1,6 +1,14 @@
 {
   "glyphs": [
     {
+      "file": "1.svg",
+      "name": "1"
+    },
+    {
+      "file": "3.svg",
+      "name": "3"
+    },
+    {
       "file": "Abandon.svg",
       "name": "Abandon"
     },
@@ -293,6 +301,10 @@
       "name": "Knowledge"
     },
     {
+      "file": "L.svg",
+      "name": "L"
+    },
+    {
       "file": "Lead.svg",
       "name": "Lead"
     },
@@ -337,8 +349,8 @@
       "name": "More"
     },
     {
-      "file": "Mystery.svg",
-      "name": "Mystery"
+      "file": "N.svg",
+      "name": "N"
     },
     {
       "file": "Nature.svg",
@@ -379,6 +391,10 @@
     {
       "file": "Opening-Portal.svg",
       "name": "Opening/Portal"
+    },
+    {
+      "file": "Osiris.svg",
+      "name": "Osiris"
     },
     {
       "file": "Past.svg",
